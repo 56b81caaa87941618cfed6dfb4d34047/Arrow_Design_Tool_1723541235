@@ -13,8 +13,9 @@ Vue.component("simple_cta_component_1723541236", {
                     <p id="cta-subtitle" class="flex-1 mb-6 font-light text-gray-100 md:text-lg">Our intuitive app makes designing and customizing arrows a breeze. Bring your vision to life with just a few clicks.</p>
                 </div>
                 
-                <div id="cta-button-container" class="flex">
+                <div id="cta-button-container" class="flex space-x-4">
                     <a id="cta-button" href="#" class="flex-1 text-purple-700 bg-white bg-opacity-80 hover:bg-opacity-100 focus:ring-4 focus:ring-purple-300 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 transition-all duration-300 ease-in-out">Design Your Arrow Now</a>
+                    <a id="cta-button-2" href="#" class="flex-1 text-white bg-purple-700 hover:bg-purple-800 focus:ring-4 focus:ring-purple-300 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 transition-all duration-300 ease-in-out">Arrow Designed</a>
                 </div>
             </div>
         </div>
