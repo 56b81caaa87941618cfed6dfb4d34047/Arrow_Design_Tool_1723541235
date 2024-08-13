@@ -18,5 +18,11 @@
         "content": "Got it, adding a button with text \"Arrow Designed\".",
         "timestamp": "13082024093218",
         "message_id": "guest13082024093216"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Arrow Designed' button to be positioned within the app?\", \"option1\": \"On the main screen, accessible at all times\", \"option2\": \"Within a specific section of the app, please specify\"}, {\"question 2\": \"What function should the 'Arrow Designed' button execute once clicked?\", \"option1\": \"Open a new page with design templates\", \"option2\": \"Trigger a pop-up menu with customization options\"}], \"input_token_count\": 259, \"output_token_count\": 108, \"time_taken\": \"0:00:12.472095\"}",
+        "timestamp": "13082024093230",
+        "message_id": "guest13082024093216"
     }
 ]
